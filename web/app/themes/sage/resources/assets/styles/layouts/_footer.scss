@@ -1,0 +1,12 @@
+.footer {
+  text-align: center;
+  padding: 30px 0;
+  margin-top: 80px;
+  background-color: $black;
+  color: $white;
+
+  .privacy-policy-link {
+    color: $white;
+    text-decoration: underline;
+  }
+}
